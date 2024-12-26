@@ -1,6 +1,6 @@
-# Arxen AI
+# Loryndor AI
 
-Arxen AI is a groundbreaking framework for creating and managing intelligent agents inspired by the adaptability, strategy, and resilience of medieval knights. Designed for dynamic environments, Arxen AI empowers users to build autonomous AI agents capable of learning, evolving, and collaborating in diverse scenarios.
+Loryndor AI is a groundbreaking framework for creating and managing intelligent agents inspired by the adaptability, strategy, and resilience of medieval knights. Designed for dynamic environments, Loryndor AI empowers users to build autonomous AI agents capable of learning, evolving, and collaborating in diverse scenarios.
 
 ---
 
@@ -59,12 +59,12 @@ Arxen AI is a groundbreaking framework for creating and managing intelligent age
 
 ## **Installation**
 
-To set up Arxen AI, follow these steps:
+To set up Loryndor AI, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Arxen-AI.git
-   cd Arxen-AI
+   git clone https://github.com/your-username/Loryndor-AI.git
+   cd Loryndor-AI
    
 2.Install the dependencies:
 pip install -r requirements.txt
