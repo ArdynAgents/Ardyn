@@ -1,6 +1,6 @@
-# Loryndor AI
+# Ardyn AI
 
-Loryndor AI is a groundbreaking framework for creating and managing intelligent agents inspired by the adaptability, strategy, and resilience of medieval knights. Designed for dynamic environments, Loryndor AI empowers users to build autonomous AI agents capable of learning, evolving, and collaborating in diverse scenarios.
+Ardyn AI is a groundbreaking framework for creating and managing intelligent agents inspired by the adaptability, strategy, and resilience of medieval knights. Designed for dynamic environments, Ardyn AI empowers users to build autonomous AI agents capable of learning, evolving, and collaborating in diverse scenarios.
 
 ---
 
@@ -59,12 +59,12 @@ Loryndor AI is a groundbreaking framework for creating and managing intelligent 
 
 ## **Installation**
 
-To set up Loryndor AI, follow these steps:
+To set up Ardyn AI, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Loryndor-AI.git
-   cd Loryndor-AI
+   git clone https://github.com/your-username/Ardyn-AI.git
+   cd Ardyn-AI
    
 2.Install the dependencies:
 pip install -r requirements.txt
